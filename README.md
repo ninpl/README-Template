@@ -34,7 +34,7 @@
 ## About The Project
 
 <img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
-     alt="Info" width="120" height="178">
+     alt="Info" width="200" height="320">
      
 Project description.
 
