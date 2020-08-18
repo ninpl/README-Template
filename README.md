@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/CustomInspectorUnity"><img src="https://github.com/moonantonio/CustomInspectorUnity/blob/master/res/logo.png?raw=true" alt="CIU" width="100"></a>
+  <a href="https://github.com/moonantonio/README-Template"><img src="https://github.com/moonantonio/README-Template/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
   <br>
-  Custom Inspector Unity
+  README-Template
   <br>
 </h1>
 
-<h4 align="center">Documentation I have collected to improve <a href="https://unity.com/" target="_blank">Unity</a> inspectors.</h4>
+<h4 align="center">Template for <a href="https://github.com/" target="_blank">github</a> readme.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
@@ -22,33 +22,33 @@
   <a href="#about-the-project">About The Project</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="https://github.com/moonantonio/CustomInspectorUnity/blob/master/README.es.md">Spanish</a> •
+  <a href="https://github.com/moonantonio/README-Template/blob/master/README.es.md">Spanish</a> •
   <a href="#contributors">Contributors</a> •
   <a href="#license">License</a>
 </p>
 
-<p align="center"><img src="https://github.com/lPinchol/CustomInspectorUnity/blob/master/res/preview.gif" width=600 alt="Screenshot of Example"></p>
+<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Screenshot of Example"></p>
 
-<p align="center"><em>The example above was created Custom Inspector. Check it out at <a href="https://docs.unity3d.com/es/current/Manual/editor-CustomEditors.html/slate">unity.doc</a>.</em></p>
+<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
 
 ## About The Project
 
-<img src="https://github.com/moonantonio/CustomInspectorUnity/blob/master/res/InfoLateral.png?raw=true" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
+     alt="Info" width="120" height="178">
      
-This project contains information on how to serialize editor variables and use them in a new custom inspector. From adding a CustomEditor attribute, to obtaining the object as an instance to access its properties. Representations of base and specific types, along with buttons, lists and other things.
+Project description.
 
 ## How To Use
 
-* **Init** — Clone the repository in the location you want. Open the project with Unity and create a scene. Search Database/AlineacionDatabase and and look at the inspector.
+Description of how to use
 
 ```
-git clone https://github.com/moonantonio/CustomInspectorUnity.git
+git clone https://github.com/moonantonio/README-Template.git
 ```
   
 ## Download
 
-You can [download](https://github.com/moonantonio/CustomInspectorUnity/releases/tag/v0.0.1) the latest installable version of **CustomInspectorUnity**.
+You can [download](https://github.com/moonantonio/README-Template/releases) the latest installable version of **README-Template**.
   
 ## Contributors
 
@@ -64,7 +64,7 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio).
 
 
 ## License
-[Apache](https://github.com/moonantonio/CustomInspectorUnity/blob/master/LICENSE)
+[MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
 
 ---
 
