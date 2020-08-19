@@ -52,7 +52,13 @@ You can [download](https://github.com/moonantonio/README-Template/releases) the 
   
 ## Contributors
 
-The project is now maintained by [Moon Antonio](https://github.com/moonantonio).
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+The project is now maintained by [Moon Antonio](https://github.com/moonantonio) with help from contributors ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->

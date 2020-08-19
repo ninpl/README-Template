@@ -52,7 +52,13 @@ Usted puede [descargar](https://github.com/moonantonio/README-Template/releases)
   
 ## Colaboradores
 
-El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio).
+1. ¡Bifurcalo!
+2. Crea tu rama de características: `git checkout -b my-new-feature`
+3. Confirme sus cambios: `git commit -am 'Add some feature'`
+4. Empuje la rama: `git push origin my-new-feature`
+5. Envíe una pull request: D
+
+El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio) con ayuda de los colaboradores ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
