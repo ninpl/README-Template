@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#informacion">Informacion</a> •
-  <a href="#como-usar">Como Usar?</a> •
+  <a href="#uso">Uso</a> •
   <a href="#descargar">Descargar</a> •
   <a href="https://github.com/moonantonio/README-Template">English</a> •
   <a href="#colaboradores">Colaboradores</a> •
@@ -38,7 +38,7 @@
      
 Descripción del proyecto.
 
-## Como Usar?
+## Uso
 
 Descripción de como usarlo.
 
@@ -58,7 +58,7 @@ Usted puede [descargar](https://github.com/moonantonio/README-Template/releases)
 4. Empuje la rama: `git push origin my-new-feature`
 5. Envíe una pull request: D
 
-El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio) con ayuda de los colaboradores ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
+El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio) con ayuda de los colaboradores ([lista](https://github.com/moonantonio/README-Template/graphs/contributors)).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
