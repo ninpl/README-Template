@@ -22,9 +22,18 @@
   <a href="#informacion">Informacion</a> •
   <a href="#uso">Uso</a> •
   <a href="#descargar">Descargar</a> •
-  <a href="https://github.com/moonantonio/README-Template/blob/master/README.en.md">English</a> •
   <a href="#colaboradores">Colaboradores</a> •
   <a href="#licencia">Licencia</a>
+</p>
+<p align="center">
+<sup> <!-- Languages -->
+      <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/languageicon-36.png" width="18" height="18">
+      <sup>
+            Español,
+            <a href="https://github.com/moonantonio/README-Template/blob/master/README.en.md">Ingles</a>,
+            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chino (中文)</a>,
+      </sup>
+</sup>
 </p>
 
 <p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Imagen del ejemplo"></p>
