@@ -27,7 +27,7 @@
 </p>
 <p align="center">
 <sup> <!-- Languages -->
-      <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/languageicon-36.png" width="18" height="18">
+      <img src="https://github.com/moonantonio/README-Template/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
       <sup>
             Español,
             <a href="https://github.com/moonantonio/README-Template/blob/master/README.en.md">Ingles</a>,
