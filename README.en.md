@@ -32,7 +32,7 @@
       <sup>
             <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Spanish</a>,
             English,
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chino (中文)</a>,
+            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chinese (中文)</a>,
       </sup>
 </sup>
 </p>
