@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Template for <a href="https://github.com/" target="_blank">github</a> readme.</h4>
+<h4 align="center">Plantilla para el Readme de <a href="https://github.com/" target="_blank">github</a>.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
@@ -19,46 +19,46 @@
 </p>
 
 <p align="center">
-  <a href="#about-the-project">About The Project</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="https://github.com/moonantonio/README-Template/blob/master/README.es.md">Spanish</a> •
-  <a href="#contributors">Contributors</a> •
-  <a href="#license">License</a>
+  <a href="#informacion">Informacion</a> •
+  <a href="#uso">Uso</a> •
+  <a href="#descargar">Descargar</a> •
+  <a href="https://github.com/moonantonio/README-Template/blob/master/README.en.md">English</a> •
+  <a href="#colaboradores">Colaboradores</a> •
+  <a href="#licencia">Licencia</a>
 </p>
 
-<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Screenshot of Example"></p>
+<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Imagen del ejemplo"></p>
 
-<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
+<p align="center"><em>Ejemplo de lo que se muestra en la imagen/gif de arriba. Compruébalo en <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
 
-## About The Project
+## Informacion
 
 <img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
      alt="Info" width="200" height="320">
      
-Project description.
+Descripción del proyecto.
 
-## How To Use
+## Uso
 
-Description of how to use
+Descripción de como usarlo.
 
 ```
-git clone https://github.com/moonantonio/README-Template.git
+git clone https://github.com/moonantonio/CustomInspectorUnity.git
 ```
   
-## Download
+## Descargar
 
-You can [download](https://github.com/moonantonio/README-Template/releases) the latest installable version of **README-Template**.
+Usted puede [descargar](https://github.com/moonantonio/README-Template/releases) la última versión instalable de **README-Template**.
   
-## Contributors
+## Colaboradores
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. ¡Bifurcalo!
+2. Crea tu rama de características: `git checkout -b my-new-feature`
+3. Confirme sus cambios: `git commit -am 'Add some feature'`
+4. Empuje la rama: `git push origin my-new-feature`
+5. Envíe una pull request: D
 
-The project is now maintained by [Moon Antonio](https://github.com/moonantonio) with help from contributors ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
+El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio) con ayuda de los colaboradores ([lista](https://github.com/moonantonio/README-Template/graphs/contributors)).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -69,7 +69,7 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio) 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## License
+## Licencia
 [MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
 
 ---
