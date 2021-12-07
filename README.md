@@ -80,6 +80,7 @@ El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio
 
 ## Estadisticas
 
+![Alt](https://repobeats.axiom.co/api/embed/20fb653bc451e48b62a381f653659af4a04816af.svg "Repobeats analytics image")
 
 ## Licencia
 [MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
