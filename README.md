@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/README-Template"><img src="https://github.com/moonantonio/README-Template/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
+  <a href="https://github.com/moonantonio/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
   <br>
   README-Template
   <br>
@@ -23,26 +23,27 @@
   <a href="#uso">Uso</a> •
   <a href="#descargar">Descargar</a> •
   <a href="#colaboradores">Colaboradores</a> •
+  <a href="#colaboradores">Estadisticas</a> •
   <a href="#licencia">Licencia</a>
 </p>
 <p align="center">
 <sup> <!-- Languages -->
-      <img src="https://github.com/moonantonio/README-Template/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
+      <img src="./res/languageicon-36.png" width="18" height="18">
       <sup>
             Español,
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.en.md">Ingles</a>,
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chino (中文)</a>,
+            <a href="./README.en.md">Ingles</a>,
+            <a href="./README.md">Chino (中文)</a>,
       </sup>
 </sup>
 </p>
 
-<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Imagen del ejemplo"></p>
+<p align="center"><img src="./res/fondo.png" width=600 alt="Imagen del ejemplo"></p>
 
 <p align="center"><em>Ejemplo de lo que se muestra en la imagen/gif de arriba. Compruébalo en <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
 
 ## Informacion
 
-<img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
+<img src="./res/info.png" align="right"
      alt="Info" width="200" height="320">
      
 Descripción del proyecto.
@@ -76,6 +77,8 @@ El proyecto ahora es mantenido por [Moon Antonio](https://github.com/moonantonio
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Estadisticas
 
 
 ## Licencia
