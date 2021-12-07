@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/README-Template"><img src="https://github.com/moonantonio/README-Template/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
+  <a href="https://github.com/moonantonio/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
   <br>
   README-Template
   <br>
@@ -24,26 +24,27 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#contributors">Contributors</a> •
+  <a href="#colaboradores">Stats</a> •
   <a href="#license">License</a>
 </p>
 <p align="center">
 <sup> <!-- Languages -->
       <img src="https://github.com/moonantonio/README-Template/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
       <sup>
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Spanish</a>,
+            <a href="./README.md">Spanish</a>,
             English,
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chinese (中文)</a>,
+            <a href="./README.md">Chinese (中文)</a>,
       </sup>
 </sup>
 </p>
 
-<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Screenshot of Example"></p>
+<p align="center"><img src="./res/fondo.png" width=600 alt="Screenshot of Example"></p>
 
 <p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
 
 ## About The Project
 
-<img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
+<img src="./res/info.png" align="right"
      alt="Info" width="200" height="320">
      
 Project description.
@@ -78,6 +79,9 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio) 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/20fb653bc451e48b62a381f653659af4a04816af.svg "Repobeats analytics image")
 
 ## License
 [MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
