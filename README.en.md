@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
+  <a href="https://github.com/ninpl/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
   <br>
   README-Template
   <br>
@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-2020.1-brightgreen"
+    <img src="https://img.shields.io/badge/Unity-2019.4%2B-brightgreen"
          alt="Unity">
   </a>
-  <a href="https://docs.unity3d.com/2019.1/Documentation/Manual/dotnetProfileSupport.html">
+  <a href="https://docs.unity3d.com/2019.4/Documentation/Manual/dotnetProfileSupport.html">
     <img src="https://img.shields.io/badge/.NET-4.x-blue">
   </a>
 </p>
@@ -28,8 +28,8 @@
   <a href="#license">License</a>
 </p>
 <p align="center">
-<sup> <!-- Languages -->
-      <img src="https://github.com/moonantonio/README-Template/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
+<sup>
+      <img src="./res/idioma.png" width="18" height="18">
       <sup>
             <a href="./README.md">Spanish</a>,
             English,
@@ -40,7 +40,7 @@
 
 <p align="center"><img src="./res/fondo.png" width=600 alt="Screenshot of Example"></p>
 
-<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
+<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/ninpl/README-Template">xx.doc</a>.</em></p>
 
 ## About The Project
 
@@ -54,12 +54,12 @@ Project description.
 Description of how to use
 
 ```
-git clone https://github.com/moonantonio/README-Template.git
+git clone https://github.com/ninpl/README-Template.git
 ```
   
 ## Download
 
-You can [download](https://github.com/moonantonio/README-Template/releases) the latest installable version of **README-Template**.
+You can [download](https://github.com/ninpl/README-Template/releases) the latest installable version of **README-Template**.
   
 ## Contributors
 
@@ -69,25 +69,24 @@ You can [download](https://github.com/moonantonio/README-Template/releases) the 
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-The project is now maintained by [Moon Antonio](https://github.com/moonantonio) with help from contributors ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
+The project is now maintained by [N9+](https://github.com/ninpl) with help from contributors ([list](https://github.com/ninpl/README-Template/graphs/contributors)).
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!--
 
-| [<img src="https://avatars3.githubusercontent.com/u/7427480?s=460&u=6c19110c744836fd6265dd1b4781e6ddd22dd20a&v=4" width="100px;"/><br /><sub><b>Moon Antonio</b></sub>](https://moonantonio.github.io/)<br />  |  |  |  |  | | |
+| [<img src="https://avatars3.githubusercontent.com/u/7427480?s=460&u=6c19110c744836fd6265dd1b4781e6ddd22dd20a&v=4" width="100px;"/><br /><sub><b>N9+</b></sub>](https://ninpl.com)<br />  |  |  |  |  | | |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/20fb653bc451e48b62a381f653659af4a04816af.svg "Repobeats analytics image")
 
+-->
+
 ## License
-[MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
+[MIT](https://github.com/ninpl/README-Template/blob/master/LICENSE)
 
 ---
 
-> [moonantonio.github.io](https://moonantonio.github.io/) &nbsp;&middot;&nbsp;
-> GitHub [@moonantonio](https://github.com/moonantonio) &nbsp;&middot;&nbsp;
-> Twitter [@AntonioMoonNull](https://twitter.com/AntonioMoonNull)
+> [ninpl.com](https://ninpl.com) &nbsp;&middot;&nbsp;
+> GitHub [@ninpl](https://github.com/ninpl) &nbsp;&middot;&nbsp;
