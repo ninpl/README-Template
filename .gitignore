@@ -1,0 +1,81 @@
+# ===================================== #
+# Carpetas de Unity
+# ===================================== #
+Temp
+Library
+Obj
+obj
+src/Logs/*
+src/Recordings/*
+
+# ===================================== #
+# Capturas de memoria
+# ===================================== #
+/[Mm]emoryCaptures/
+
+# ===================================== #
+# Visual Studio / MonoDevelop / JetBrains
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vs
+*.idea
+.gradle
+ 
+# ===================================== #
+# OS 
+# ===================================== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+ 
+# ===================================== #
+# Instaladores de Windows
+# ===================================== #
+*.cab
+*.msi
+*.msm
+*.msp
+ 
+# ===================================== #
+# Configurador de carpetas
+# ===================================== #
+Desktop.ini
+icon.ico
+ 
+# ===================================== #
+# Papelera de reciclaje utilizada en archivos compartidos
+# ===================================== #
+$RECYCLE.BIN/
+ 
+# ===================================== #
+# Personalizados
+# ===================================== #
+# Relacionado con el Proyecto
+aplicacion/*
+src/Assets/0/*
+src/Nervelink/*
+
+# ===================================== #
+# COPYRIGHTED / ASSET STORE
+# ===================================== #
+ 
+# ===================================== #
+# GITEYE
+# ===================================== #
+*.project
