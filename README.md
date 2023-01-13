@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Plantilla para el Readme de <a href="https://github.com/" target="_blank">github</a>.</h4>
+<h4 align="center">Plantilla para el Readme de <a href="https://github.com/ninpl/README-Template" target="_blank">github</a>.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
