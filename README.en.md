@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Template for <a href="https://github.com/" target="_blank">github</a> readme.</h4>
+<h4 align="center">Template for <a href="https://github.com/ninpl/README-Template" target="_blank">github</a> readme.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
