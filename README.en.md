@@ -1,13 +1,19 @@
+<div align="center">
+
+```ocaml
+NEVER SKIP / IGNORE / AVOID README
+```
+
+</div>
+
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/ninpl/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
+    <a href="https://github.com/ninpl/README-Template"><img src="./res/logo.png" alt="LogoRepo" width="100"></a>
   <br>
   README-Template
   <br>
 </h1>
-
-<h4 align="center">Template for <a href="https://github.com/ninpl/README-Template" target="_blank">github</a> readme.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
@@ -19,14 +25,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#about-the-project">About The Project</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#contributors">Contributors</a> •
-  <a href="#colaboradores">Stats</a> •
-  <a href="#license">License</a>
-</p>
+<pre align="center">
+  <a href="#setup">SETUP</a> • <a href="#dependencies">DEPENDENCIES</a> • <a href="#download">DOWNLOAD</a> • <a href="#contributors">CONTRIBUTORS</a> • <a href="#license">LICENSE</a>
+</pre>
+<h1>
+  <a href="#--------">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</h1>
+
 <p align="center">
 <sup>
       <img src="./res/idioma.png" width="18" height="18">
@@ -38,30 +45,53 @@
 </sup>
 </p>
 
-<p align="center"><img src="./res/fondo.png" width=600 alt="Screenshot of Example"></p>
+<p align="center">
+  <img src="./res/fondo.png" width=600 alt="Screenshot of Example">
+</p>
 
-<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/ninpl/README-Template">xx.doc</a>.</em></p>
+<p align="center">
+  <em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/ninpl/README-Template">xx.doc</a>.</em>
+</p>
 
-## About The Project
+## :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
 <img src="./res/info.png" align="right"
      alt="Info" width="200" height="320">
      
 Project description.
 
-## How To Use
+<div align="center">
+
+```ocaml
+CLICK OR TAP ❲☰❳ TO SHOW MIRROR
+```
+
+</div>
+<p align="right">
+  [<a href="https://gitlab.com/ninpl/readme-template">mirror</a>]
+</p>
+
+## <samp>Setup</samp>
 
 Description of how to use
 
 ```
 git clone https://github.com/ninpl/README-Template.git
 ```
+
+## <samp>Dependencies</samp>
+
+| Name                                                                                                 | Version                                                              | License |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------|
+| [Post-Processing](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.2/manual/Installation.html)                       | 2.2 | [U-P-D-L 1.0](https://unity.com/legal/licenses/unity-package-distribution-license)    |
+| [kevinhong-ffvii](https://www.kevinhong.com/ffvii-church)             | 1.0 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)    |
   
-## Download
+  
+## <samp>Download</samp>
 
 You can [download](https://github.com/ninpl/README-Template/releases) the latest installable version of **README-Template**.
   
-## Contributors
+## <samp>Contributors</samp>
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -71,22 +101,28 @@ You can [download](https://github.com/ninpl/README-Template/releases) the latest
 
 The project is now maintained by [N9+](https://github.com/ninpl) with help from contributors ([list](https://github.com/ninpl/README-Template/graphs/contributors)).
 
-<!--
+<a href="https://github.com/ninpl/README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ninpl/README-Template" />
+</a>
 
-| [<img src="https://avatars3.githubusercontent.com/u/7427480?s=460&u=6c19110c744836fd6265dd1b4781e6ddd22dd20a&v=4" width="100px;"/><br /><sub><b>N9+</b></sub>](https://ninpl.com)<br />  |  |  |  |  | | |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+## <samp>Agradecimientos</samp>
 
+|           |   | Inspiration and Resources     |         |    License        |
+|:---------:|:-:|:-------------------------------|:--------------------|:----------:|
+|  Imagen | 1 | [Kevin Hong](https://www.kevinhong.com/ffvii-church)  |   |   [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)         |
+|  contributors-img  | 2 | [Suguru Inatomi](https://github.com/lacolaco)         |   | No License |
+|  Shields  | 3 | [Thaddée Tyl](https://github.com/espadrine)         |   | [CC0 LICENSE](https://github.com/badges/shields/blob/master/LICENSE) |
 
-## Stats
+## <samp>Security Policy</samp>
 
-![Alt](https://repobeats.axiom.co/api/embed/20fb653bc451e48b62a381f653659af4a04816af.svg "Repobeats analytics image")
+[Read](./SECURITY.md).
 
--->
+## <samp>License</samp>
 
-## License
-[MIT](https://github.com/ninpl/README-Template/blob/master/LICENSE)
+<pre align="center">
+  <a href="https://github.com/ninpl/README-Template/blob/master/LICENSE">MIT</a> • <a href="https://ninpl.com">ninpl.com</a> • <a href="https://github.com/ninpl">@ninpl</a>
+</pre>
 
----
-
-> [ninpl.com](https://ninpl.com) &nbsp;&middot;&nbsp;
-> GitHub [@ninpl](https://github.com/ninpl) &nbsp;&middot;&nbsp;
+<pre align="center">
+  <a href="#------------------readme-template--">BACK TO TOP</a>
+</pre>

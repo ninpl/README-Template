@@ -104,7 +104,7 @@ El proyecto esta mantenido por [N9+](https://github.com/ninpl) con ayuda de los 
 
 ## <samp>Agradecimientos</samp>
 
-|           |   | Inspiracion y Recursos     |         |    Licencia        |
+|           |   | Inspiración y Recursos     |         |    Licencia        |
 |:---------:|:-:|:-------------------------------|:--------------------|:----------:|
 |  Imagen | 1 | [Kevin Hong](https://www.kevinhong.com/ffvii-church)  |   |   [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)         |
 |  contributors-img  | 2 | [Suguru Inatomi](https://github.com/lacolaco)         |   | Sin Licencia |
