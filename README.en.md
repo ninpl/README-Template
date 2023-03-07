@@ -105,7 +105,7 @@ The project is now maintained by [N9+](https://github.com/ninpl) with help from 
   <img src="https://contrib.rocks/image?repo=ninpl/README-Template" />
 </a>
 
-## <samp>Agradecimientos</samp>
+## <samp>Acknowledgements</samp>
 
 |           |   | Inspiration and Resources     |         |    License        |
 |:---------:|:-:|:-------------------------------|:--------------------|:----------:|
