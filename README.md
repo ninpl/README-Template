@@ -110,6 +110,10 @@ El proyecto esta mantenido por [N9+](https://github.com/ninpl) con ayuda de los 
 |  contributors-img  | 2 | [Suguru Inatomi](https://github.com/lacolaco)         |   | Sin Licencia |
 |  Shields  | 3 | [Thaddée Tyl](https://github.com/espadrine)         |   | [CC0 LICENSE](https://github.com/badges/shields/blob/master/LICENSE) |
 
+## <samp>Politica de seguridad</samp>
+
+[Leer](./SECURITY.md).
+
 ## <samp>Licencia</samp>
 
 <pre align="center">
