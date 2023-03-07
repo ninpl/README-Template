@@ -66,7 +66,7 @@ CLIC O TOQUE ❲☰❳ PARA VER EL ESPEJO
 
 </div>
 <p align="right">
-  [<a href="https://gitlab.com/ninpl">espejo</a>]
+  [<a href="https://gitlab.com/ninpl/readme-template">espejo</a>]
 </p>
 
 ## <samp>Configuracion</samp>
