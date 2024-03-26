@@ -58,6 +58,13 @@ NUNCA OMITIR / IGNORAR / EVITAR LEERME
      
 Descripción del proyecto.
 
+> [!IMPORTANT]
+> Unity 2019.4+
+
+> [!NOTE]  
+> Selecciona <kbd>+</kbd> en la parte superior.
+> Esto es un ejemplo.
+
 <div align="center">
 
 ```ocaml
