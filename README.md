@@ -79,10 +79,10 @@ git clone https://github.com/ninpl/README-Template.git
 
 ## <samp>Dependencias</samp>
 
-| Nombre                                                                                                 | Version                                                              | Licencia |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------|
-| [Post-Processing](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.2/manual/Installation.html)                       | 2.2 | [U-P-D-L 1.0](https://unity.com/legal/licenses/unity-package-distribution-license)    |
-| [kevinhong-ffvii](https://www.kevinhong.com/ffvii-church)             | 1.0 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)    |
+| Nombre                                                                                                     | Version | Licencia                                                                           |
+| :--------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------------------------------- |
+| [Post-Processing](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.2/manual/Installation.html) | 2.2     | [U-P-D-L 1.0](https://unity.com/legal/licenses/unity-package-distribution-license) |
+| [kevinhong-ffvii](https://www.kevinhong.com/ffvii-church)                                                  | 1.0     | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)               |
   
 ## <samp>Descargar</samp>
 
@@ -104,11 +104,11 @@ El proyecto esta mantenido por [N9+](https://github.com/ninpl) con ayuda de los 
 
 ## <samp>Agradecimientos</samp>
 
-|           |   | Inspiración y Recursos     |         |    Licencia        |
-|:---------:|:-:|:-------------------------------|:--------------------|:----------:|
-|  Imagen | 1 | [Kevin Hong](https://www.kevinhong.com/ffvii-church)  |   |   [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)         |
-|  contributors-img  | 2 | [Suguru Inatomi](https://github.com/lacolaco)         |   | Sin Licencia |
-|  Shields  | 3 | [Thaddée Tyl](https://github.com/espadrine)         |   | [CC0 LICENSE](https://github.com/badges/shields/blob/master/LICENSE) |
+|                  |       | Inspiración y Recursos                               |      |                               Licencia                               |
+| :--------------: | :---: | :--------------------------------------------------- | :--- | :------------------------------------------------------------------: |
+|      Imagen      |   1   | [Kevin Hong](https://www.kevinhong.com/ffvii-church) |      | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) |
+| contributors-img |   2   | [Suguru Inatomi](https://github.com/lacolaco)        |      |                             Sin Licencia                             |
+|     Shields      |   3   | [Thaddée Tyl](https://github.com/espadrine)          |      | [CC0 LICENSE](https://github.com/badges/shields/blob/master/LICENSE) |
 
 ## <samp>Politica de seguridad</samp>
 
